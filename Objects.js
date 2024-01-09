@@ -15,7 +15,7 @@ function favColour() {
     console.log(`My favourite colour is ${colour}`);
   }
   
-  favColour("Blue");
+  favColour("Yellow");
   
  
   // Activity 3
@@ -41,4 +41,4 @@ function favColour() {
     orderCount++;
   };
   
-  takeOrder("pineapple", "thin");
+  takeOrder("pineapple", "parsley");
